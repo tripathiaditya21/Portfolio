@@ -87,7 +87,7 @@ npm start
 
 ## 🌐 Live Demo
 
-👉 https://portfolio-amber-one-76.vercel.app/
+👉 [https://portfolio-amber-one-76.vercel.app/](https://portfolio-amber-one-76.vercel.app/)
 
 ---
 
