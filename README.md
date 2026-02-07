@@ -87,7 +87,7 @@ npm start
 
 ## 🌐 Live Demo
 
-👉 (Add your deployed link here)
+👉 https://portfolio-amber-one-76.vercel.app/
 
 ---
 

@@ -6,6 +6,7 @@ import leaf from "../../Assets/Projects/aahar.png";
 import emotion from "../../Assets/Projects/weather.png";
 import editor from "../../Assets/Projects/resume-analyzer.png";
 import chatify from "../../Assets/Projects/chatify.png";
+import avatar from "../../Assets/avatar.svg"
 
 
 
@@ -48,6 +49,16 @@ function Projects() {
               title="Resume Analyzer and Job Scrapper"
               description="Developed an advanced AI application that leverages Retrieval-Augmented Generation (RAG), Large Language Models (LLM), and Groq’s LLaMA 3 model for comprehensive resume analysis"
               ghLink="https://github.com/tripathiaditya21/Resume-Analyzer-and-Job-Scrapper"
+                       
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={avatar}
+              isBlog={false}
+              title="Portfolio"
+              description="This project showcases my skills, projects, and technical expertise in Full Stack Development and Data Science."
+              ghLink="https://github.com/tripathiaditya21/Portfolio"
                        
             />
           </Col>
